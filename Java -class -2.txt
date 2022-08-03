@@ -1,0 +1,35 @@
+Types of language : 
+1) Hiugh level language
+2) Low level laguage
+
+Translators : converting HLL to LLL and vice versa.
+1) Compiler :  translates whole file.
+2)Interpreter : translates line by line
+
+c and c++ use compiler to compilation and exectution processs.
+Java use compiler for compilation and interpreter for execution.
+
+Q - Why java follow above mechanism?
+
+ (Author : - James Gosling , Sun micro System, 1991, WORA - Write once and Run anywhere, developed virtual machine which can run java byte code at any machine. Project Name - Test.gt(Green Talk) - OAK Language - Java(1995))
+
+* Java version :
+1995 - java Alpha beta
+1996 - JDK 1.0
+1997 - JDK 1.1
+1998 - JDK 1.2
+2000 - JDK 1.3
+2002 - JDK 1.4
+2004 - Java5 (Tiger)
+2006 - Java6 
+2011 - Java7
+2014 - Java 8
+2017 - Java 9
+2018 - Java 10 , Java 11
+2019 - Java 12 , 13
+2020 - Java 14, 15
+2021 - Java 16, 17
+2022 - Java 18
+-----------------------
+ LTS - Long term support products : Java 8, 11, 17
+
